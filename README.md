@@ -27,9 +27,10 @@ This project is a responsive landing page featuring a fixed navigation menu with
    git clone https://github.com/your-username/responsive-landing-page.git
 Navigate to the Project Directory
 
-bash
-Copy code
+   ```bash
+
 cd responsive-landing-page
+```
 Open the Project
 
 You can open index.html in your browser to view the landing page.
@@ -58,11 +59,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or feedback, please reach out to your-email@example.com.
-
-css
-Copy code
-
-Feel free to adjust any details to better fit your project or preferences!
+For any questions or feedback, please reach out to cypronium2004@gmail.com
 
 
